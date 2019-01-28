@@ -16,4 +16,5 @@ git remote add origin git@github.com:sogetu/hello.git
 git push -u origin master  
 
 
-https://www.vultr.com/?ref=7803498-4F  
+https://www.vultr.com/?ref=7803498-4F
+https://www.vultr.com/?ref=6986552 
